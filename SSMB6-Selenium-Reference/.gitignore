@@ -1,0 +1,7 @@
+/.settings
+/target/classes/com/shiftedtech/qa/framework/*.class
+/target/classes/com/shiftedtech/qa/framework/pom/*.class
+*.class
+/target/classes/META-INF
+/target/classes
+/src/test/resources/~$KWScript.xlsx
