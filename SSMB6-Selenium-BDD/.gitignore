@@ -1,0 +1,9 @@
+/.settings
+/target/classes/META-INF
+/target/classes/com/shiftedtech/spree/framework/steps/*.class
+*.class
+/target/test-classes/features
+target
+libraries
+.idea
+/*.iml
